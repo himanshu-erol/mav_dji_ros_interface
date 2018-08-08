@@ -1,6 +1,6 @@
 device: "/dev/ttyUSB0" #"/dev/tty.usbserial-A104JS3T"
-app_id: 1040678
-enc_key: "a41335b074411eb3408029cd0955324df2d3b84e5c0d80ed8344ae5c34e05cb2"
+app_id: 1058376
+enc_key: "09925134e1ff61a6d8040d9095c143cd0013d8f5919915d46da6716a24ff80c5"
 thrust_constant: 1.2
 baudrate: 921600
 #921600, 
